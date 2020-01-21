@@ -1,6 +1,6 @@
 # Electronic-TP (4 MOC)
 
-## Membres du Groupe
+## Groupe
 - KAING Thierry
 - MENARD Dorian
 - BOUKHIBA Cylia
