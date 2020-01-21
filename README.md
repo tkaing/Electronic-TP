@@ -14,7 +14,7 @@ Afficher la moyenne, la médiane et la tendance de l'humidité et de la tempéra
 - EQUAL si la valeur est la même que celle d'avant (pas de changement)
 
 ## Exemple d'affichage
-![alt text](https://raw.githubusercontent.com/tkaing/Electronic-TP/master/image1.jpg)
+![alt text](https://raw.githubusercontent.com/tkaing/Electronic-TP/master/image1.png)
 
 ## Montage du TP
 ![alt text](https://raw.githubusercontent.com/tkaing/Electronic-TP/master/image0.jpg)
